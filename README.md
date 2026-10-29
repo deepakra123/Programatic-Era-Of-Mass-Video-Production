@@ -6,6 +6,8 @@ Programmatic Era of Mass Video Production automates video creation using program
 
 [Open the live demo](http://127.0.0.1:5173/)
 
+![Demo screenshot](./demo-screenshot.png)
+
 ## Setup
 
 1. Install dependencies:
